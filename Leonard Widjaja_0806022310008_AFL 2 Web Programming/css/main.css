@@ -1,0 +1,25 @@
+.header-text{
+    color: white !important;
+}
+.texts{
+    font-size: 1vw;
+}
+.title-header{
+    background-color: rgba(223, 196, 196, 0.1);
+    width: fit-content;
+}
+
+
+.list-inline-item img {
+    width: 30px; 
+    height: auto; 
+}
+
+footer{
+    text-align: center;
+    position: relative;
+    color: black;
+    font-weight: 400;
+    line-height: 0.5vw;
+    font-size: 1vw;
+}
